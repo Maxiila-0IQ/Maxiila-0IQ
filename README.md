@@ -1,4 +1,4 @@
-## Hello there 👋
+## I'm Sizen 👋
 [![Sizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxiila-0IQ&show_icons=true)](https://github.com/Maxiila-0IQ/github-readme-stats&show_icons=true)
 
 - 🔭 I’m currently working on Frontend Development
